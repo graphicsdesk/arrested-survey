@@ -11,7 +11,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>#scrolly{position:relative;padding:1rem}.scrolly-overlay{position:relative;padding:0;max-width:28rem;margin:0 auto;z-index:1}.sticky-thing{position:-webkit-sticky;position:sticky;left:0;width:100%;margin:0;z-index:-1;top:0;height:100vh;display:flex;flex-direction:column;justify-content:center}.step{margin:0 auto 25rem;background-color:#eee;background-color:#fff;color:#000;border:3px solid #000}.step p{text-align:center;font-size:1.3rem;padding-left:10px;padding-right:10px}.hidden{visibility:hidden}#responses>*{transition:all .3s ease-in-out}#nonresponses{transition:all .4s ease-in-out}#responses-2>*{transition:all .3s ease-in-out}#nonresponses-2{transition:all .4s ease-in-out}@media only screen and (min-width:700px){#scrolly.side-by-side{display:flex}#scrolly.side-by-side>div{flex-basis:0;flex-grow:1;flex-shrink:1;padding:.75em}#scrolly.side-by-side .scrolly-overlay{margin-top:70vh;order:0;min-width:15rem;max-width:20rem}#scrolly.side-by-side .sticky-thing{order:1;flex-grow:2}}#g-test-Artboard_1-bubbles-img circle,#g-test-Artboard_1-bubbles-img line,#g-test-Artboard_1-bubbles-img path,#g-test-Artboard_1-bubbles-img polygon,#g-test-Artboard_1-bubbles-img polyline,#g-test-Artboard_1-bubbles-img rect,#g-test-Artboard_2-bubbles-img circle,#g-test-Artboard_2-bubbles-img line,#g-test-Artboard_2-bubbles-img path,#g-test-Artboard_2-bubbles-img polygon,#g-test-Artboard_2-bubbles-img polyline,#g-test-Artboard_2-bubbles-img rect{vector-effect:non-scaling-stroke}</style>
+    <style>#scrolly{position:relative;padding:1rem}.scrolly-overlay{position:relative;padding:0;max-width:28rem;margin:0 auto;z-index:1}.sticky-thing{position:-webkit-sticky;position:sticky;left:0;width:100%;margin:0;z-index:-1;top:0;height:100vh;display:flex;flex-direction:column;justify-content:center}.step{margin:0 auto 25rem;background-color:#eee;background-color:#fff;color:#000;border:3px solid #000}.step p{text-align:center;font-size:1.3rem;padding:5px 15px}.hidden{visibility:hidden}#responses>*{transition:all .3s ease-in-out}#nonresponses{transition:all .4s ease-in-out}#responses-2>*{transition:all .3s ease-in-out}#nonresponses-2{transition:all .4s ease-in-out}@media only screen and (min-width:700px){#scrolly.side-by-side{display:flex}#scrolly.side-by-side>div{flex-basis:0;flex-grow:1;flex-shrink:1;padding:.75em}#scrolly.side-by-side .scrolly-overlay{margin-top:70vh;order:0;min-width:15rem;max-width:20rem}#scrolly.side-by-side .sticky-thing{order:1;flex-grow:2}}#g-test-Artboard_1-bubbles-img circle,#g-test-Artboard_1-bubbles-img line,#g-test-Artboard_1-bubbles-img path,#g-test-Artboard_1-bubbles-img polygon,#g-test-Artboard_1-bubbles-img polyline,#g-test-Artboard_1-bubbles-img rect,#g-test-Artboard_2-bubbles-img circle,#g-test-Artboard_2-bubbles-img line,#g-test-Artboard_2-bubbles-img path,#g-test-Artboard_2-bubbles-img polygon,#g-test-Artboard_2-bubbles-img polyline,#g-test-Artboard_2-bubbles-img rect{vector-effect:non-scaling-stroke}</style>
 	<script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/3.0.4/scrollama.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
@@ -345,7 +345,7 @@
         <div class="scrolly-overlay">
           <div class="step" id="step-zero">
             <p>The New York Police Department detained 108 individuals from the original ‘Gaza Solidarity Encampment’ site on April 18.</p>
-            <p>Spectator reached out to the protesters with a survey asking TKTK</p>
+            <p><i>The Eye</i> reached out to the protesters with a survey asking TKTK</p>
           </div>
           <div class="step" id="step-one">
             <p>Thirty-seven of the 108 protesters responded to our survey.</p>
@@ -356,13 +356,13 @@
             <p>One lone responder was a non-affiliate.</p>
           </div>
           <div class="step" id="step-three">
-            <p>Of the 37 responders, 22 identified themselves as dependent on financial aid from the University.</p>
-          </div>
-          <div class="step" id="step-four">
             <p>Eighteen identified themselves as coming from a low-income background.</p>
           </div>
+          <div class="step" id="step-four">
+            <p>Of the 37 responders, 22 identified themselves as dependent on financial aid from the University.</p>
+          </div>
           <div class="step" id="step-five">
-            <p>We should have something here maybe.</p>
+            <p>The University did not respond to <i>The Eye</i>’s request for comment on financially supporting students during suspension.</p>
           </div>
         </div>
       </section>
@@ -370,7 +370,7 @@
 
     
 
-<script>!function(){var e,t,n,i,r,o,a,d,u;document.documentElement.className.indexOf("g-resizer-v3-init")>-1||(document.documentElement.className+=" g-resizer-v3-init","querySelector"in document&&(document.addEventListener("DOMContentLoaded",c),window.addEventListener("resize",(e=c,t=200,o=Date.now||function(){return(new Date).getTime()},a=null,d=0,u=function(){d=o(),a=null,r=e.apply(n,i),a||(n=i=null)},function(){var c=o(),l=t-(c-d);return n=this,i=arguments,l<=0||l>t?(a&&(clearTimeout(a),a=null),d=c,r=e.apply(n,i),a||(n=i=null)):a||!1===options.trailing||(a=setTimeout(u,l)),r}))));function c(){var e=Array.prototype.slice.call(document.querySelectorAll(".g-artboard[data-min-width]")),t={};e.forEach(function(e){var n=e.parentNode,i=t[n.id]||n.getBoundingClientRect().width,r=e.getAttribute("data-min-width"),o=e.getAttribute("data-max-width");t[n.id]=i,e.style.display=+r<=i&&(+o>=i||null===o)?"block":"none"});try{window.parent&&window.parent.$&&window.parent.$("body").trigger("resizedcontent",[window]),window.require&&require(["foundation/main"],function(){require(["shared/interactive/instances/app-communicator"],function(e){e.triggerResize()})})}catch(n){console.log(n)}}}();</script>
+
 
 
 <script src="scrolltest.26728f77.js"></script>

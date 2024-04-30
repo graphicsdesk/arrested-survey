@@ -280,8 +280,8 @@
         "byline3": "Edited by Caelan Bailey",
         "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XI5IZAJJLZG7RALT46LVMXNWOY.jpg",
         "cover_caption": "Photo by Gabriella Gregor-Splaver",
-        "USE_NEWS_NAV": true,
-        "USE_EYE_NAV": false,
+        "USE_NEWS_NAV": false,
+        "USE_EYE_NAV": true,
         "USE_COVER_HED": true,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1LHCIBCvTBeJsw312lTu2KnMY4iOG0k0hULj743jDSp4/edit"

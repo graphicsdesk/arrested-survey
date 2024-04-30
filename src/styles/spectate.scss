@@ -475,6 +475,12 @@ header {
   }
 }
 
+@media (max-width: 660px) {
+  header{
+    transform: translateY(-125%) !important;
+  }
+}
+
 .graphic {
   margin: 30px auto;
 }

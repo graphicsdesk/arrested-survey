@@ -10,33 +10,279 @@
         "body": [
           {
             "type": "text",
-            "value": "Leadin. Something to draw the reader in. Graphics is the only visuals and words desk at the Spectator."
+            "value": "When University President Minouche Shafik <a href=\"https://www.columbiaspectator.com/news/2024/04/18/shafik-authorizes-nypd-to-sweep-gaza-solidarity-encampment-officers-in-riot-gear-arrest-over-100/\">authorized the New York Police Department</a> to move into the east side of South Lawn on April 18, hundreds of Columbia students watched from behind the fenced perimeter as protesters sat in two concentric circles, arms linked. In the outside circle, protesters faced the crowd, media, and police; on the inside, shielded from view, protesters faced each other, singing and crying together as they watched police arrest protesters one by one."
           },
           {
             "type": "text",
-            "value": "Nutgraf. What is the meat of the story? Why does this matter?"
+            "value": "By the time the NYPD arrived on the lawn, the protesters had planned for possible arrests—having expected sweeps multiple times since setting up the encampment early April 17—and assembled quickly into their circles. Protesters had promised not to budge until their demands were met: financial transparency and divestment from Israel. The demands also noted that, at the time of the encampment, Gaza’s health ministry reported that the Palestinian <a href=\"https://www.npr.org/2024/02/29/1234159514/gaza-death-toll-30000-palestinians-israel-hamas-war\">death toll</a> was over 30,000."
+          },
+          {
+            "type": "text",
+            "value": "Arrested protesters told <i>The Eye</i> that the formation was intentionally stratified: Those sitting in the outer circle were mostly white or deemed themselves to have “greater privilege.” Protesters who opted for the inner circle considered themselves to be at greater risk—people of color, low-income students, and students with disabilities. Khanh, a Columbia student who spoke to <i>The Eye</i> on the condition of anonymity citing safety concerns, said that choosing to sit in either circle was a personal choice; no one wanted to “police anyone.”"
+          },
+          {
+            "type": "text",
+            "value": "Police gave each of the sitting protesters a tap on the shoulder, signaling it was their time to stand up and put their hands behind their back. It was a peculiarly slow process, giving the protesters time to sing part of a song, barely audible for spectators as many yelled and chanted in protest of the arrests. Students in the inner circle told me they didn’t realize how many eyes were on them until they stood up."
+          },
+          {
+            "type": "text",
+            "value": "“I just felt incredibly safe, not necessarily because of anything Columbia related, but because of how my community was making me safe,” Khanh said about being in the inner circle at the moment of arrest. “Like literally by insulating me and my other community members.”"
+          },
+          {
+            "type": "text",
+            "value": "As encampments spread across the world, outside media coverage—notably an April 19 <a href=\"https://nypost.com/2024/04/19/us-news/ups-execs-daughter-other-millionaires-kids-busted-in-columbia-anti-israel-protest/\">New York Post</a> article centering protesters with “multimillion-dollar mansions” and “wealthy and powerful families”—have painted a picture of a majority white and wealthy group of Columbia students who were arrested on April 18. When House Speaker Mike Johnson (R-La.), who encouraged further arrests and suspensions of pro-Palestinian protesters, visited Columbia for a press conference on Low Steps, he told <a href=\"https://www.youtube.com/watch?v=KMGD19e95Ec\">students</a> to “stop wasting your parents’ money.” The effect of such coverage has not only doxxed certain individuals, but it has also failed to cover the protesters’ intentions, especially those in the misrepresented inner circle."
+          },
+          {
+            "type": "text",
+            "value": "In order to better understand the community that formed the original encampment—one that would inspire a global movement—<i>The Eye </i>sent<i> </i>a survey about “class positionality” in a private group chat of arrested students. Created to connect arrested students, the chat is only accessible via invitation and is now used to support one another with activities like healing circles and discussing financial and legal support. With 37 responses, the surveyed students describe a more complex picture of the students who were arrested on April 18."
           },
           {
             "type": "graphic",
             "value": {
-              "asset": "test-graphic.html"
+              "asset": "survey-results.html"
+            }
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "testimonies.html"
             }
           },
           {
             "type": "text",
-            "value": "<i>Charlotte Li is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i>.</i>"
+            "value": "As an encampment persists on the west side of South Lawn, I spoke at length with four students from the inner circle. All four said they are low-income, and three were also first-generation college students. For them, the prospect of <a href=\"https://www.columbiaspectator.com/news/2024/04/19/columbia-begins-formally-notifying-students-of-suspension-for-participation-in-wednesdays-gaza-solidarity-encampment/\">suspension </a>and arrest threw their financial aid, work-study income, access to food and housing, privacy, family’s immigration status, and job prospects into uncertainty."
           },
           {
             "type": "text",
-            "value": "<i>Jun Yi Zhang is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+            "value": "At the time of our interviews, these students were currently suspended without access to campus, dining halls, and their work-study jobs—Barnard students were also <a href=\"https://www.columbiaspectator.com/news/2024/04/23/barnard-suspends-and-evicts-at-least-53-students-outlines-steps-for-amnesty/\">evicted</a> from their dorms. As of April 26, Barnard <a href=\"https://www.columbiaspectator.com/news/2024/04/26/barnard-reaches-resolution-with-nearly-all-suspended-students-spokesperson-says/\">reached an agreement</a> to lift interim suspension for “nearly all” 55 suspended Barnard students, with routes to amnesty, according to a Barnard spokesperson. A Columbia spokesperson did not respond to <i>The Eye</i>’s request for comment."
+          },
+          {
+            "type": "text",
+            "value": "When I spoke with Maria, a Barnard student who spoke to <i>The Eye</i> on the condition of anonymity citing safety concerns, they were staying in their friend’s living room a few blocks from campus after Barnard evicted them. In the corner, a couch was draped with a gray blanket: their bed for the time being. They spoke of the fear of the police, shaped by a legacy of brutality, which “lives in the bodies of people of color through generational trauma.”"
+          },
+          {
+            "type": "text",
+            "value": "Those I spoke with educated themselves extensively about the risks before participating in the encampment. During <a href=\"https://www.columbiaspectator.com/podcasts/2024/04/25/33-hours-in-the-liberated-zone/\">months of preparation</a>, organizers consulted guides on how to respond to repression, legal advice from a third-party retired lawyer, and one another, weighing administrative and legal responses to the encampment against their ultimate goals. Maria had long been waiting for more action after witnessing “the pain and grief and traumas that are happening in Palestine,” they said."
+          },
+          {
+            "type": "text",
+            "value": "[Listen: 33 Hours in the ‘Liberated Zone’]"
+          },
+          {
+            "type": "text",
+            "value": "Maria explained there was a “Black hats” group chat for everything that could’ve gone wrong during the encampment and ways to mitigate the risk. National Lawyers Guild Legal Observers—founded as a response to the 1968 mass arrest of Columbia protesters—were identifiable with lime green hats and took notes while spectating the encampment. The NYPD arrested two legal observers on the lawn outside the circles of protesters on April 18."
+          },
+          {
+            "type": "text",
+            "value": "Low-income student protesters went through another layer of preparation: considering what a record of arrest, suspension, or even expulsion would mean for their—and their families’—financial security and future. “It’s this weird relationship where I’m extremely critical of Columbia, but I’m heavily dependent on it, and I need Columbia for my home,” Khanh said."
+          },
+          {
+            "type": "text",
+            "value": "Luz, a Columbia student who spoke on the condition of anonymity citing safety concerns, has a summer tech internship lined up and checked the fine print before the encampment, wondering if getting arrested placed their job in jeopardy—even though they found it hard to believe that Shafik would authorize the NYPD’s sweep."
+          },
+          {
+            "type": "text",
+            "value": "Korrin, who spoke to <i>The Eye</i> on the condition of anonymity citing safety concerns, had come to terms with losing financial aid, their job, and even their home."
+          },
+          {
+            "type": "text",
+            "value": "“Because the school has the power to take all of that away from me,” Korrin said. “They can ruin my life if they really want to. But I know that. I would rather not go to school that supports a genocide.”"
+          },
+          {
+            "type": "text",
+            "value": "Khanh, Korrin, and Luz did not tell their families about their plans to participate in the encampment."
+          },
+          {
+            "type": "text",
+            "value": "Khanh found it hard to articulate to their Vietnamese mother, whom Khanh said had a “limited understanding” of a situation happening “overseas,” what precisely was at risk for Khanh protesting—and Khanh still committed to the point of suspension and arrest. They cared less about their own risk and more about their family as they rely on their work-study job to financially support them and their single mother who has a disability, Khanh said."
+          },
+          {
+            "type": "text",
+            "value": "“I’m sure for [my mother], hearing about a suspension or an arrest or anything that jeopardizes my career at Columbia is one that’s also terrifying,” Khanh said, noting that losing that support places their family’s “social mobility at risk.”"
+          },
+          {
+            "type": "text",
+            "value": "Before Luz had a chance to tell their mom, they said she had watched a Telemundo broadcast that claimed two of the arrested students were Latino, suspecting one of them was her child."
+          },
+          {
+            "type": "text",
+            "value": "Korrin offered a half-truth. “All I told my mom, ‘I was camping,’” they said. “And she said, ‘Have fun.’”"
+          },
+          {
+            "type": "text",
+            "value": "Korrin and Luz were also both concerned about what an arrest would mean for members of their family for whom they plan to petition for citizenship: Korrin’s father is from Mexico, and Luz’s parents are from Peru. Legal advice did not offer a foretold conclusion as most petitions are on a “case-by-case basis,” according to Korrin."
+          },
+          {
+            "type": "text",
+            "value": "But, for Korrin and Luz, the available legal resources staved off most of their concerns, though they didn’t yet know that they would be charged with a violation, a non-criminal offense—not a misdemeanor, which is a criminal offense. Still, Korrin was worried about the political implications of the “Gaza Solidarity Encampment,” since applying for citizenship also places one’s politics under scrutiny by the government."
+          },
+          {
+            "type": "text",
+            "value": "Korrin said CUAD organizers reached out to immigration lawyers but did not give them a clear answer before April 18. As Luz put it, “I accepted the risks even though the future is so scary.”"
+          },
+          {
+            "type": "text",
+            "value": "The students told me that their relationship to Palestinian liberation movements is, in part, informed by their personal histories. Khanh considered the way the Palestinian Liberation Organization spoke up during the Vietnam War and their own commitment to a kind of “historical solidarity.” Korrin noted parallels between bad-faith rhetoric of Hamas “infiltrating the schools” and Mexican cartels. Luz’s parents are Andean Peruvians who have faced repression from the Peruvian government and had to leave when an extreme right-wing faction rose to power in the ’90s."
+          },
+          {
+            "type": "text",
+            "value": "“So moving here, my parents, the whole idea of like, citizenship is also very like, connected with the Palestinian struggle as well, because my parents can’t go back,” Luz said."
+          },
+          {
+            "type": "text",
+            "value": "However, despite personal connections to histories of colonization overseas, they noted the broad appeal to humanity that is highlighted by CUAD’s movement and divestment demands."
+          },
+          {
+            "type": "text",
+            "value": "“You shouldn’t need to have a historical alliance with any nation or any community in order to feel compelled to work making your own contributions towards ending a genocide,” Khanh said."
+          },
+          {
+            "type": "text",
+            "value": "By and large, it was a risk the arrested students initially kept to themselves, foreseeing the advice their concerned families might offer. Speaking with other low-income students allowed them to form a community through which they could navigate conflicting sentiments or understand why so many were interested in taking such a risk in the first place."
+          },
+          {
+            "type": "text",
+            "value": "“Because we have so little, it’s almost like we have nothing to lose,” Khanh said on speaking with a student in a similar position. At the same time, they were conscious of casting their situation against that of Gaza. Relative to Palestinians, Khanh said they have “quite a lot of mobility.”"
+          },
+          {
+            "type": "text",
+            "value": "“I want to use as much of it as I can,” they added."
+          },
+          {
+            "type": "text",
+            "value": "***"
+          },
+          {
+            "type": "text",
+            "value": "Immediately after the April 18 arrest, a split screen formed. Those that comprised the visible branch of the movement—the original protesters willing to risk arrest—left in correctional buses. Meanwhile, an encampment was developing on the west side of South Lawn, the full scope of which was unbeknownst to them until the NYPD released them in the late hours of April 18."
+          },
+          {
+            "type": "text",
+            "value": "“I wanted to cry,” Luz said on finding out about the west encampment. “I was like, ‘No way.’ It’s such a beautiful thing.”"
+          },
+          {
+            "type": "text",
+            "value": "Sequestered from campus events, it was also a moment for the arrested protesters to reflect on the result of months of effort and the consequences of arrest and suspension they had to deal with in the coming days."
+          },
+          {
+            "type": "text",
+            "value": "Since then, students in that inner circle have described the tense ramifications of Columbia’s institutional support network and its replacement by an ad hoc system of mutual aid, friends, and each other—even as long-term ramifications loom. For one, the communal experience of getting arrested inspired the arrested students’ group chat profile picture: a dark magenta plastic package of Raisin Bran—the only food some were offered, according to Korrin."
+          },
+          {
+            "type": "text",
+            "value": "In the aftermath, Khanh has been processing a myriad of reactions while also dealing with a sprained right thumb from the zip ties, diagnosed by CityMD. On the one hand, Khanh said they were moved and empowered by the way their community had supported them and their collective cause. On the other hand, they feel guilt and a sense of displacement. Back home in Washington state, they sleep on a futon in a one-bedroom apartment with their brother and mother."
+          },
+          {
+            "type": "text",
+            "value": "When we spoke, Columbia had denied them access to campus. As of April 29, Columbia sent suspended students a document offering a “one time opportunity to resolve your current suspension” if they agree to an alternative resolution process which consists of three categories: “disciplinary probation,” “comply with policies,” and “disciplinary processes.”"
+          },
+          {
+            "type": "text",
+            "value": "“I feel like I’m just floating around,” Khanh said. “[My home] doesn’t feel like my own because I don’t really have my own space. … When I was arrested, I was charged with trespassing at Columbia University, my own institution. So it’s just like, where is my home?” Seven days after their arrest, they still hadn’t told their mother."
+          },
+          {
+            "type": "text",
+            "value": "Maria told me they find it hard to ask for personal help, redirecting supporters of the protest to center the situation in Gaza and consider donating money to “directly support Palestinians.” However, Maria said the interim lack of regular dining hall access has been a financial struggle. They have experienced multiple mental breakdowns and anxiety attacks since their arrest. “A lot of us, our meds were taken, confiscated, and we didn’t get to have that which is like, so fucked up,” they said."
+          },
+          {
+            "type": "text",
+            "value": "Since the arrests, crowdfunding organizations have raised thousands of dollars to help arrested students as well as to direct donations toward Palestinian funds. The 116th Initiative, a Barnard and Columbia mutual aid collective, sent a statement to <i>The Eye</i> explaining that helping “suspended and evicted peers find housing, afford food, and pay off medical bills is nothing new to our mission.”"
+          },
+          {
+            "type": "text",
+            "value": "CUAD has established a disciplined students relief payment system where students can request up to $1,000 at once, as of April 29. The Harlem Neighborhood Defender Service has also been working to provide legal support, according to an April 23 email they sent to an arrested student."
+          },
+          {
+            "type": "text",
+            "value": "As the movement developed into something far greater than those arrested told me they had anticipated, these students reflected on their experience outside of campus walls, many of whom were barred from witnessing the movement they had participated in igniting. Some are afraid to venture near campus for fear of escalated punishment."
+          },
+          {
+            "type": "text",
+            "value": "“I’m scared that they’re going to look through the CCTV and use that to make me homeless,” Korrin said. A Columbia spokesperson did not respond to a request for comment from <i>The Eye</i> about camera surveillance in or around the encampment."
+          },
+          {
+            "type": "text",
+            "value": "***"
+          },
+          {
+            "type": "text",
+            "value": "Pro-Palestinian campus protests have led to <a href=\"https://www.nytimes.com/article/pro-palestinian-encampments-protests.html\">more than 800 arrests</a> across the country. As mainstream media has <a href=\"https://www.nytimes.com/2024/04/18/nyregion/columbia-protest-1968-vietnam.html\">continually</a> <a href=\"https://www.npr.org/2024/04/26/1247527512/columbia-university-protests-1968-2024-history\">noted</a>, the last time Columbia saw itself at the nexus of mass student protest was in 1968. Protesting against the Vietnam War, students were successful in calling for Columbia to divest from weapons manufacturers as well as halt plans for a Morningside Park gym, alleging limited community access and effective segregation."
+          },
+          {
+            "type": "text",
+            "value": "The portrait of a 1968 protester has also been warped in media coverage. Then, women—now visible among CUAD organizers—participated but were not featured in leadership or coverage. Another striking difference is that there were two related but distinct fronts in the occupation of Hamilton Hall in 1968—the Students for a Democratic Society, mostly made up of white male students, and Black students, many of whom were affiliated with the Society of Afro-American Students."
+          },
+          {
+            "type": "text",
+            "value": "“As soon as the white students left Hamilton Hall, we started drilling for possible arrests,” William Sales, a then-graduate student protester and organizer, wrote in <a href=\"https://www.jstor.org/stable/10.7312/cron18274.51\">“Self Determination and Self-Respect: Hamilton Hall, Fifty Years Later.”</a>"
+          },
+          {
+            "type": "text",
+            "value": "Organizers of today’s pro-Palestinian movement are part of a multiracial, multigendered coalition, coming from vastly different socioeconomic levels that, so far, have faced the public as a united front."
+          },
+          {
+            "type": "text",
+            "value": "Korrin acknowledged the fine line that low-income or otherwise marginalized students like them walk between where they’re from and where they are now."
+          },
+          {
+            "type": "text",
+            "value": "“We’re privileged to go to an Ivy League institution. How can people mobilize for this versus how people are apathetic when other people are also … in direct need, are asking for aid like this, but I understand that I just … wanted to clear up that like, the people who are protesting are low-income,” Korrin said. “We can recognize that we have a place of privilege, also recognizing that the people who are protesting … don’t necessarily come from a huge amount of privilege.”"
+          },
+          {
+            "type": "text",
+            "value": "Some low-income students also found it frustrating that the portrayal of the entire group as wealthy comes off as a critique of the encampment’s intentions: “It doesn’t even matter if we were all white and wealthy protesters. Like, isn’t that the point?” Korrin asked, explaining how that status allows for the security and resources to be able to participate in risky actions."
+          },
+          {
+            "type": "text",
+            "value": "On April 23, faculty at Columbia <a href=\"https://www.columbiaspectator.com/news/2024/04/23/over-100-faculty-members-protest-in-rally-to-support-our-students-and-reclaim-our-university/\">walked out</a> onto Low Steps to condemn the arrest and suspension of students “engaged in peaceful protest.”"
+          },
+          {
+            "type": "text",
+            "value": "Scores of encampments have sprouted up across the nation, from Ivy League universities to an array of state schools such as Ohio State University, the University of Texas at Austin, and the City College of New York, located several blocks north of Columbia. University administrators have authorized city and state police forces to clear protesters, sometimes using batons, tear gas, and rubber bullets to do so. Within Columbia alone, there have been varied approaches to disciplinary actions—for example, only Barnard administrators evicted students at suspension’s onset."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2024/04/23/barnard-suspends-and-evicts-at-least-53-students-outlines-steps-for-amnesty/\"><i>Barnard suspends and evicts at least 53 students, outlines steps for ‘amnesty’</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Khanh told me they have no regrets, knowing the urgency and importance of the struggle for which they protest. CUAD now lists five demands on their <a href=\"https://cuapartheiddivest.org/\">website</a>: financial divestment, academic boycott, stop the displacement, no policing on campus, and end the silence."
+          },
+          {
+            "type": "text",
+            "value": "“I’ve never experienced those types of emotions before,” they said, holding anxiety, fear, pride, and awe within themselves all at once, reflecting on the movement that has spiraled out before them. Huddled in the inner circle as the NYPD tapped them, they had already calculated that their life might be forever changed."
+          },
+          {
+            "type": "text",
+            "value": "“Let’s say I was expelled, let’s say like, I did lose my housing,” Khanh told me. “I’ve kind of already been at that point. So if I needed to make that sacrifice, if I needed to return to that low point for something like this, I’m okay with that. Because this is bigger than me. It’s bigger than myself. It’s bigger than all of us.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior Staff Writer Ann Vettikkal can be contacted at </i><a href=\"mailto:ann.vettikkal@columbiaspectator.com\"><i>ann.vettikkal@columbiaspectator.com</i></a><i>. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior Staff Writer Andrew Park can be contacted at </i><a href=\"mailto:andrew.park@columbiaspectator.com\"><i>andrew.park@columbiaspectator.com</i></a><i>. Follow him on X at </i><a href=\"https://twitter.com/androo_park?lang=en\"><i>@androo_park</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior Staff Writer Caelan Bailey can be contacted at </i><a href=\"mailto:caelan.bailey@columbiaspectator.com\"><i>caelan.bailey@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with The Eye? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and follow us on Instagram </i></b><a href=\"https://www.instagram.com/theeye.mag/\"><b><i>@theeye.mag</i></b></a><b><i>. </i></b>"
           }
         ],
-        "headline": "The U.S. and Ivy League schools were late to respond to COVID-19.",
-        "date": "October 17, 2019",
-        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Jun-Yi-Zhang\">Jun Yi Zhang</a>",
+        "headline": "The Stakes of Solidarity: What Low-Income Students Risked the Day of Columbia’s Mass Arrests",
+        "date": "April 30, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Ann-Vettikkal\">Ann Vettikkal</a>",
+        "byline2": "Graphics by Andrew Park",
+        "byline3": "Edited by Caelan Bailey",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XI5IZAJJLZG7RALT46LVMXNWOY.jpg",
+        "cover_caption": "Photo by Gabriella Gregor-Splaver",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1LHCIBCvTBeJsw312lTu2KnMY4iOG0k0hULj743jDSp4/edit"
       }
